@@ -1,0 +1,14 @@
+.env
+# Python関連
+*.pyc
+__pycache__/
+
+# 環境変数
+.env
+
+# Virtual Environment
+env/
+
+# Django関連
+*.sqlite3
+/static/
